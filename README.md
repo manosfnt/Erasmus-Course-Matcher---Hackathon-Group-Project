@@ -1,7 +1,7 @@
 # ERASMUS MATCHER AI 
 > **Study Without Borders**:  An intelligent semantic search engine and AI chatbot that helps university students find the best matching courses for their Erasmus+ exchange programs.
 
-Made by **Stack Underflow** for the **2026 hackathon by Netcompany**
+Made by **Stack Underflow (Emmanouil Fountoulakis , Nicos Liles , Dimitris Tsiolakis , Marios Euaggelou , Xatzis Stylianos)** for the **2026 hackathon by Netcompany**
 
 ## THE PROBLEM
 > Currently, finding matching courses between a home university and a host university abroad is a highly manual, bureaucratic, and tedious process. Students spend weeks reading hundreds of pages of PDF syllabuses in foreign languages, trying to guess which courses correspond to their curriculum.
