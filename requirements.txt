@@ -1,0 +1,7 @@
+flask
+numpy
+python-dotenv
+langchain-community
+langchain-openai
+chromadb
+openai
